@@ -12,4 +12,7 @@ We will:
   Evaluate our model on the test set
   Run the model on your own movie reviews!
   
+  ![screenshot from 2018-08-30 18-46-34](https://user-images.githubusercontent.com/29462447/44854309-d17c1d00-ac85-11e8-9608-4df297926a71.png)
+
+  
   
